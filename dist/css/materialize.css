@@ -8358,6 +8358,7 @@ button.btn-floating {
   font-size: inherit;
   text-transform: inherit;
   background: none;
+  height: 100%;
 }
 
 .waves-notransition {
